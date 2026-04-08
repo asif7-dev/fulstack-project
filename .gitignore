@@ -1,0 +1,43 @@
+# ======================
+
+# Angular (Frontend - Asif)
+
+# ======================
+
+Asif/node_modules/
+Asif/dist/
+Asif/.angular/
+
+# ======================
+
+# Spring Boot (Backend - CafeBackend)
+
+# ======================
+
+CafeBackend/target/
+
+# ======================
+
+# IDE Files
+
+# ======================
+
+.idea/
+.vscode/
+
+# ======================
+
+# Logs
+
+# ======================
+
+*.log
+
+# ======================
+
+# OS Files
+
+# ======================
+
+.DS_Store
+Thumbs.db
